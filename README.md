@@ -1,2 +1,6 @@
 # Hello-World
-Test 
+Test of github
+
+Interests:
+
+Python, pyqt, GPIB, VISA, automation, real-time data display and feedback 
